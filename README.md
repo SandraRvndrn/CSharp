@@ -1,3 +1,3 @@
 # CSharp
-Contains codes from C# learnings 
+Contains codes from C# learnings.
 Author - Sandra Raveendran
