@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\C#Learnings\C#Learnings\bin\Debug\C#Learnings.pdb
+C:\Users\sandr\source\repos\C#Learnings\C#Learnings\obj\Debug\C#Learnings.csproj.AssemblyReference.cache
+C:\Users\sandr\source\repos\C#Learnings\C#Learnings\obj\Debug\C#Learnings.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\C#Learnings\C#Learnings\obj\Debug\C#Learnings.pdb
+C:\Users\sandr\source\repos\C#Learnings\C#Learnings\bin\Debug\C#Learnings.exe
+C:\Users\sandr\source\repos\C#Learnings\C#Learnings\obj\Debug\C#Learnings.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandr\source\repos\C#Learnings\C#Learnings\obj\Debug\C#Learnings.exe
